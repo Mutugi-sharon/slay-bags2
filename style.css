@@ -6,7 +6,7 @@ body {
 }
 
 nav {
-    background-color: red;
+    background-color: pink;
     padding: 10px;
 }
 
@@ -19,7 +19,7 @@ nav a {
 
 .box {
     display: inline-block;
-    background-color: red;
+    background-color: pink;
     padding: 10px;
     margin: 10px;
 }
@@ -30,6 +30,6 @@ nav a {
 }
 
 footer {
-    background-color: red;
+    background-color: pink;
     padding: 10px;
 }
