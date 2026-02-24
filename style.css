@@ -1,17 +1,17 @@
 body {
-    background-color: black;
-    color: white;
+    background-color: silver;
+    color: black;
     text-align: center;
     font-family: Arial;
 }
 
 nav {
-    background-color: pink;
+    background-color: blue;
     padding: 10px;
 }
 
 nav a {
-    color: black;
+    color: silver;
     text-decoration: none;
     margin: 10px;
     font-weight: bold;
@@ -19,7 +19,7 @@ nav a {
 
 .box {
     display: inline-block;
-    background-color: pink;
+    background-color: blue;
     padding: 10px;
     margin: 10px;
 }
@@ -30,6 +30,7 @@ nav a {
 }
 
 footer {
-    background-color: pink;
+    background-color: blue;
+    color: silver;
     padding: 10px;
 }
